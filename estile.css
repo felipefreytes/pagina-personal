@@ -40,8 +40,21 @@ button{
 
 .articulos{
     text-align: center;
-    margin-top: 10%;
+    margin-top: 2%;
     border: 3px solid;
     border-color: black;
-    margin: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 2%;
+}
+
+.separador{
+
+    background-color: black;
+    border: 3px solid;
+
+}
+
+.titulo{
+    background-color:darkgray;
 }
