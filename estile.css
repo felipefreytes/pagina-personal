@@ -37,3 +37,11 @@ button{
     margin-top: 10%;
     font-family: facherita;
 }
+
+.articulos{
+    text-align: center;
+    margin-top: 10%;
+    border: 3px solid;
+    border-color: black;
+    margin: 10%;
+}
