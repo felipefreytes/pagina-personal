@@ -1,0 +1,39 @@
+*{
+    list-style:none;
+}
+
+@font-face {
+    font-family: facherita;
+    src: url(data-latin.ttf);
+}
+
+body{
+    font-family: facherita;
+}
+
+a{
+    color: black ;
+    margin-top: 5% ;
+    text-decoration: none;
+    padding:2%
+}
+nav{
+    display: block;
+    text-align: center;
+}
+
+li{
+    display: inline;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 5% ;
+}
+
+button{
+
+    text-align: center;
+    margin-top: 10%;
+    font-family: facherita;
+}
